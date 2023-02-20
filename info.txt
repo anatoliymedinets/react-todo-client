@@ -1,0 +1,4 @@
+1. npx create-react-app app-name --template typescript;
+2. Delete dependencies, add devDependencies.
+3. Add SCSS $ npm install sass --save-dev
+4. Add proxy configuration $ npm install http-proxy-middleware --save
